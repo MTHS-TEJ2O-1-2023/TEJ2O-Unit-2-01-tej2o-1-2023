@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program prints "Hello, World!" on a Micro:bit
 */
 
 basic.showString('Hello, World!')
